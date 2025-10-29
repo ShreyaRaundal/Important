@@ -2,7 +2,13 @@
 
 Good morning! My name is Shreya Raundal, and I’ve completed my graduation in Computer Science and Design Engineering.
 
-I have a strong interest in software development and have built several projects using Java, Spring Boot, and MySQL for the backend, and HTML, CSS, and JavaScript for the frontend.
+🔹 Tech Stack:
+• Frontend: HTML, CSS, and basic JavaScript for building responsive user interfaces.
+• Programming Languages: Java (Core and Advanced).
+• Frameworks & Libraries: Hibernate and JDBC for database connectivity and ORM.
+• Database Management: MySQL and Oracle for data storage and query optimization.
+• Tools: Postman for REST API testing and Git/GitHub for version control and collaboration.
+• Core Concepts: Object-Oriented Programming (OOPs), RESTful APIs, CRUD Operations, and Exception Handling.
 
 Some of my key projects include Secure Video Steganography System, NASA API Implementation, and an Employee Management System, where I implemented CRUD operations, REST APIs, and database integration.
 
