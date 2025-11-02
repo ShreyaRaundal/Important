@@ -82,3 +82,80 @@ I’m confident in my Java and DSA skills, and I’ve already built real-world p
 
 I adapt quickly, enjoy solving challenges, and am eager to contribute to Accella’s projects from day one.
 I believe I can grow fast and become a valuable asset to your team.
+
+Perfect 👍 Shreya! Here’s your **resume content (Education, Experience, Projects, Skills)** rewritten in **clean, professional, and recruiter-friendly format** — with everything properly aligned and structured for your LaTeX or Word version.
+
+---
+
+## 📄 **Shreya Raundal**
+
+**Ahilya Nagar, Maharashtra** — +91 8180849963 — **[shreyaraundal@gmail.com](mailto:shreyaraundal@gmail.com)**
+[LinkedIn] | [GitHub]
+
+---
+
+### 🎓 **Education**
+
+**Dr. Vithalrao Vikhe Patil College of Engineering** | *Aug 2022 – 2025*
+**B.Tech in Computer Science and Design** — CGPA: **8.42**
+
+**Radhabai Kale Mahila Mahavidyalaya** | *June 2019 – 2021*
+Higher Secondary (PCMB) — Percentage: **87%**
+
+**QSpiders Training Institute** | *2025*
+Completed Courses: Core Java, JDBC, Servlets, JSP, Hibernate, SQL
+
+Relevant Coursework: Object-Oriented Programming, Database Management, Web Development, Software Engineering
+
+---
+
+### 💼 **Experience**
+
+**Robowaves, Pune** — *Java & Full-Stack Development Intern*
+*Aug 2025 – Present*
+
+* Developed a **full-stack web application** integrating NASA’s APIs (APOD & Mars Rover photos).
+* Implemented **secure RESTful APIs** with JWT and OAuth2 for role-based access control.
+* Built a **responsive frontend** using Thymeleaf and Bootstrap for dynamic image display.
+* Designed **CRUD operations** with MySQL persistence and optimized query performance.
+
+---
+
+### 💻 **Academic Projects**
+
+**Employee Management System (SQL Project)** — *MySQL*
+
+* Designed and implemented a **relational database** to manage employee details and departments.
+* Created **SQL queries** for CRUD operations, joins, and aggregate functions.
+* Ensured **data consistency and efficiency** through normalization and indexing.
+
+**Video Steganography System** — *Java, JDBC, MySQL*
+
+* Developed a **secure system** for hiding confidential data in videos using LSB encoding and AES encryption.
+* Integrated **JDBC** for efficient data storage and retrieval.
+* Incorporated **QR-based authentication** for multi-layered security and enhanced confidentiality.
+
+---
+
+### 🧠 **Technical Skills**
+
+**Languages:** Java, JavaScript, SQL, HTML, CSS
+**Frameworks & Technologies:** JDBC, Hibernate, Servlet, JSP, Bootstrap, Spring Boot (basic)
+**Databases:** MySQL, Oracle (basic)
+**Developer Tools:** Eclipse, VS Code, Git, GitHub, GitHub Desktop, Postman, Maven, Jupyter Notebook
+**Design Tools:** Figma, Sketch
+
+---
+
+### 🌟 **Soft Skills**
+
+* **Leadership:** Led technical teams and coordinated group projects.
+* **Teamwork:** Collaborated effectively during internships and hackathons.
+* **Communication:** Anchor Club member; secured 1st rank in Debate, Group Discussion & Elocution.
+* **Time Management:** Efficient at task scheduling and meeting deadlines.
+
+---
+
+Would you like me to now put this in **LaTeX format** (with all sections aligned exactly for your resume template)?
+That way, you can directly compile it in Overleaf or VS Code and get a polished one-page PDF.
+
