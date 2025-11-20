@@ -156,6 +156,65 @@ Relevant Coursework: Object-Oriented Programming, Database Management, Web Devel
 
 ---
 
-Would you like me to now put this in **LaTeX format** (with all sections aligned exactly for your resume template)?
-That way, you can directly compile it in Overleaf or VS Code and get a polished one-page PDF.
+Here is the **STAR-format (Situation–Task–Action–Result)** explanation of your **Video Steganography System** — perfect for interviews:
+
+---
+
+# ⭐ **STAR Format: Video Steganography System**
+
+### **S — Situation**
+
+Traditional data hiding methods are vulnerable to attacks because they only use steganography or only encryption. There was a need for a system that provides **multi-layer security** for transmitting confidential information securely through video files.
+
+---
+
+### **T — Task**
+
+My task was to design and develop a **secure video steganography system** that:
+
+* Encrypts the secret data
+* Hides it safely inside video frames
+* Ensures authentication of the receiver
+* Stores metadata and logs securely
+* Works efficiently for large video files
+
+---
+
+### **A — Action**
+
+I implemented a multi-layer protection model:
+
+1. **AES Encryption** – Encrypted the secret message before embedding.
+2. **LSB Steganography** – Embedded encrypted data into video frames with minimal visual distortion.
+3. **QR-Based Authentication** – Added an extra layer to verify the receiver’s identity.
+4. **Java Modules** – Built modules for:
+
+   * Frame extraction
+   * Bit embedding
+   * Data reconstruction
+   * Error handling
+5. **JDBC + MySQL Integration** – Stored encrypted keys, metadata, and user logs.
+6. **Performance Optimization** – Improved efficiency while maintaining high video quality (measured using PSNR/SSIM).
+
+---
+
+### **R — Result**
+
+* Developed a **high-security data-hiding system** combining cryptography and steganography.
+* Achieved **minimal visual distortion** during embedding.
+* Ensured **secure transmission** even if the video is intercepted.
+* Enabled reliable data extraction with multi-level verification.
+* Provided a **robust prototype** suitable for real-world secure communication scenarios.
+
+---
+
+If you want, I can also prepare:
+
+✅ STAR format for **The Green Corner**
+✅ STAR format for your **NASA Project**
+or
+✅ 20–30 sec elevator pitch for interview
+
+Just tell me!
+
 
